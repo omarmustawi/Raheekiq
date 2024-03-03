@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "http://www.raheekiq.com/$1",
+      "statusCode": 301
+    }
+  ]
+}

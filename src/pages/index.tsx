@@ -5,7 +5,7 @@ import OurAims from "@/Components/OurAims/OurAims";
 import Services from "@/Components/Services/Services";
 import BorderCrossings from "@/Components/BorderCrossings/BorderCrossings";
 import Footer from "@/Components/Navbar/Footer";
-import HomePage from "@/Components/HomePage";
+import HomePage from "@/Components/HomePage"; 
 import { useWindowSize } from "@/Contexts/WindowWidthContext";
 import LargeScreenNavbar from "@/Components/Navbar/LargeScreenNavbar";
 import SmallScreenNavbar from "@/Components/Navbar/SmallScreenNavbar";
